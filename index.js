@@ -19,8 +19,9 @@ Do the following:
 
    HINT: no function required
 */
+let votingAge = 18;
 
-
+console.log(votingAge);
 
 /*
 Task 1b - Values
@@ -36,7 +37,6 @@ Do the following:
 
 
 
-
 /*
 Task 1c - Convert Strings to Numbers
 
@@ -48,7 +48,9 @@ Do the following:
    HINT: look up the Number method
 */
 
+let x = Number("1999");
 
+console.log(Number("1999"));
 
 
 /*
@@ -64,6 +66,7 @@ function multiply(a, b){
   return a * b;
 }
 
+console.log(multiply(5, 3));
 
 
 /*🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 2 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀*/
